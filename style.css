@@ -16,3 +16,40 @@ html body {
 .hederoption{
     margin: 5px;
 }
+#details{
+    height: 130px;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid;
+}
+#content{
+    display: flex;
+    justify-content: center;
+}
+
+.training{
+    padding: 15px;
+    width: 500px;
+    height: 90px;
+    background-color: grey;
+    margin: 5px;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.training:hover{
+    background-color: rgb(234, 204, 204);
+}
+.physical{
+    background-color: rgb(236, 116, 116);
+}
+.tactical{
+    background-color: aquamarine;
+}
+.technical{
+    background-color: yellow;
+}
+#footer{
+    background-color: green;
+    text-align: center;
+}

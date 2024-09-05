@@ -1,0 +1,33 @@
+
+h3{
+    color: aqua;
+}
+#TrainingDetails{
+    padding: 30px;
+    margin: 10px;
+    border: 1px solid;
+}
+#txtformdiv{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px;
+}
+.txtinput{
+    width: 80%;
+    height: 25px;
+}
+#formdiv{
+    background-color: gray;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+#Gender{
+    padding: 25px;
+}
+h2{
+    color: green;
+    margin: 5px;
+}
