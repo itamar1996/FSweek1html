@@ -1,0 +1,18 @@
+html body {
+    width: 100%;
+    height: 100%;
+}
+#allheder{
+    background-color: rgb(17, 70, 17);
+    height: 150px;
+    text-align: center;
+}
+#heder{
+    display: flex;
+    background-color: green;
+    height: 50px;
+    justify-content: center;
+}
+.hederoption{
+    margin: 5px;
+}
